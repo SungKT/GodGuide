@@ -3,6 +3,9 @@
 #### 特别鸣谢
 - 感谢「黝黑蜗壳」提供的GodGuide引导框架的TypeScript版本
 
+#### DEMO地址
+http://example.creator-star.cn/demo-ui/
+
 #### 注意事项
 - master分支为js版本
 - typescript分支为ts版本
